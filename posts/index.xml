@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Covid Papers</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Covid Papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020 Covid Papers.</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 23:51:11 -0500</lastBuildDate>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covid 19 in Critically Ill Patients in the Seattle Region Case Series</title>
+      <link>/posts/covid-19-in-critically-ill-patients-in-the-seattle-region-case-series/</link>
+      <pubDate>Wed, 01 Apr 2020 23:51:11 -0500</pubDate>
+      
+      <guid>/posts/covid-19-in-critically-ill-patients-in-the-seattle-region-case-series/</guid>
+      <description>Case series in @NEJM - early US ICU experience with #COVID19 out of Seattle. 24 patients admitted with respiratory failure, most requiring vasopressor support. Mortality a striking 50% with 7 patients still hospitalized at press. #StayAtHome https://t.co/0NQ1KLSfBN
+&amp;mdash; Stephen V Liu (@StephenVLiu) April 2, 2020  </description>
+      
+    </item>
+    
+  </channel>
+</rss>
