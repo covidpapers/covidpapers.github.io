@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Covid Papers.</copyright>
-    <lastBuildDate>Thu, 02 Apr 2020 18:32:40 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 01:41:09 -0500</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Not Your Typical ARDS: the high-stakes debate about ICU Covid intubation</title>
+      <link>/posts/not-your-typical-ards/</link>
+      <pubDate>Fri, 03 Apr 2020 01:41:09 -0500</pubDate>
+      
+      <guid>/posts/not-your-typical-ards/</guid>
+      <description>To ARDSnet or not to ARDSnet, that is the question</description>
+      
+    </item>
     
     <item>
       <title>Positive Sputum and Feces After Conversion of Pharyngeal Samples</title>
