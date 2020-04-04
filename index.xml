@@ -1,35 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Covid Papers</title>
-    <link>/</link>
+    <link>http://covidpapers.github.io/</link>
     <description>Recent content on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©2020 Covid Papers.</copyright>
-    <lastBuildDate>Fri, 03 Apr 2020 01:41:09 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 11:11:39 -0500</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://covidpapers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
+      <title>Not Your Typical ARDS: the high-stakes debate about ICU Covid intubation</title>
+      <link>http://covidpapers.github.io/posts/not-your-typical-ards/</link>
       <pubDate>Fri, 03 Apr 2020 01:41:09 -0500</pubDate>
       
-      <guid>/posts/</guid>
-      <description></description>
+      <guid>http://covidpapers.github.io/posts/not-your-typical-ards/</guid>
+      <description>To ARDSnet or not to ARDSnet, that is the question</description>
+    </item>
+    
+    <item>
+      <title>Positive Sputum and Feces After Conversion of Pharyngeal Samples</title>
+      <link>http://covidpapers.github.io/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</link>
+      <pubDate>Thu, 02 Apr 2020 18:32:40 -0500</pubDate>
       
+      <guid>http://covidpapers.github.io/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</guid>
+      <description>Chen C, Gao G, Xu Y, et al. SARS-CoV-2–Positive Sputum and Feces After Conversion of Pharyngeal Samples in Patients With COVID-19. Ann Intern Med. 2020; [Epub ahead of print 30 March 2020]. doi: &lt;a href=&#34;https://doi.org/10.7326/M20-0991&#34;&gt;https://doi.org/10.7326/M20-0991&lt;/a&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://covidpapers.github.io/about/</link>
+      <pubDate>Thu, 02 Apr 2020 11:11:39 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://covidpapers.github.io/about/</guid>
       <description>I am an American CS and Bioinformatics grad student who has been following the Coronavirus outbreak since mid January. My goal here is to post interesting papers and what others are saying about them. I also plan to keep an up-to-date dashboard of the current state of knowledge about the virus itself, the disease it causes, the public health response, and treatments and diagnostics coming out of the scientific literature.</description>
+    </item>
+    
+    <item>
+      <title>Case series in NEJM - early US ICU experience with COVID19 out of Seattle. 24 patients admitted with respiratory failure, most requiring vasopressor support. Mortality a striking 50% with 7 patients still hospitalized at press</title>
+      <link>http://covidpapers.github.io/posts/covid-19-in-critically-ill-patients-in-the-seattle-region-case-series/</link>
+      <pubDate>Thu, 02 Apr 2020 11:11:39 -0500</pubDate>
       
+      <guid>http://covidpapers.github.io/posts/covid-19-in-critically-ill-patients-in-the-seattle-region-case-series/</guid>
+      <description>Covid-19 in Critically Ill Patients in the Seattle Region — Case Series</description>
+    </item>
+    
+    <item>
+      <title>A substantial portion of US healthcare workers are 55 years of age or older</title>
+      <link>http://covidpapers.github.io/posts/older-clinicians-and-the-surge-in-novel-coronavirus-disease-2019/</link>
+      <pubDate>Thu, 02 Apr 2020 02:07:52 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/older-clinicians-and-the-surge-in-novel-coronavirus-disease-2019/</guid>
+      <description>Buerhaus PI, Auerbach DI, Staiger DO. Older Clinicians and the Surge in Novel Coronavirus Disease 2019 (COVID-19). JAMA. Published online March 30, 2020. doi:10.1001/jama.2020.4978</description>
     </item>
     
   </channel>

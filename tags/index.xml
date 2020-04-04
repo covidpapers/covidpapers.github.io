@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Covid Papers</title>
-    <link>/tags/</link>
+    <link>http://covidpapers.github.io/tags/</link>
     <description>Recent content in Tags on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©2020 Covid Papers.</copyright>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://covidpapers.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>testing/diagnosis on Covid Papers</title>
-    <link>/categories/testing/diagnosis/</link>
+    <link>http://covidpapers.github.io/categories/testing/diagnosis/</link>
     <description>Recent content in testing/diagnosis on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©2020 Covid Papers.</copyright>
     
-        <atom:link href="/categories/testing/diagnosis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://covidpapers.github.io/categories/testing/diagnosis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Positive Sputum and Feces After Conversion of Pharyngeal Samples</title>
-      <link>/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</link>
+      <link>http://covidpapers.github.io/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</link>
       <pubDate>Thu, 02 Apr 2020 18:32:40 -0500</pubDate>
       
-      <guid>/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</guid>
+      <guid>http://covidpapers.github.io/posts/sars-cov-2positive-sputum-and-feces-after-conversion-of-pharyngeal-samples-in-patients-with-covid-19/</guid>
       <description>Chen C, Gao G, Xu Y, et al. SARS-CoV-2–Positive Sputum and Feces After Conversion of Pharyngeal Samples in Patients With COVID-19. Ann Intern Med. 2020; [Epub ahead of print 30 March 2020]. doi: &lt;a href=&#34;https://doi.org/10.7326/M20-0991&#34;&gt;https://doi.org/10.7326/M20-0991&lt;/a&gt;</description>
-      
     </item>
     
   </channel>
