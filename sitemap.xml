@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>http://covidpapers.github.io/</loc>
+    <lastmod>2020-04-05T11:11:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://covidpapers.github.io/covid19-cases/</loc>
+    <lastmod>2020-04-05T11:11:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://covidpapers.github.io/covid19-deaths/</loc>
+    <lastmod>2020-04-05T11:11:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://covidpapers.github.io/covid19-testing/</loc>
+    <lastmod>2020-04-05T11:11:39-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://covidpapers.github.io/posts/rundown-muli-year-mask-study-concludes-surgical-masks-could-prevent-transmission-of-coronaviruses-and-influenza/</loc>
     <lastmod>2020-04-04T18:55:50-05:00</lastmod>
   </url>
@@ -53,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://covidpapers.github.io/</loc>
-    <lastmod>2020-04-02T11:11:39-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://covidpapers.github.io/posts/older-clinicians-and-the-surge-in-novel-coronavirus-disease-2019/</loc>
     <lastmod>2020-04-02T02:07:52-05:00</lastmod>
   </url>
@@ -68,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://covidpapers.github.io/trials/</loc>
+    <loc>http://covidpapers.github.io/covid19-trials/</loc>
     <priority>0</priority>
   </url>
   

@@ -5,7 +5,7 @@
     <link>http://covidpapers.github.io/</link>
     <description>Recent content on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Apr 2020 11:11:39 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 11:11:39 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +17,33 @@
       
       <guid>http://covidpapers.github.io/posts/stability-of-sars-cov-2-in-different-environmental-conditions/</guid>
       <description>Alex W H Chin, Julie T S Chu, Mahen R A Perera, Kenrie P Y Hui, Hui-Ling Yen, Michael C W Chan, Malik Peiris, Leo L M Poon, Stability of SARS-CoV-2 in different environmental conditions, The Lancet Microbe, 2020,</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Knowledge Base - Cases</title>
+      <link>http://covidpapers.github.io/covid19-cases/</link>
+      <pubDate>Sun, 05 Apr 2020 11:11:39 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/covid19-cases/</guid>
+      <description>3-day rolling average new cases by counry graph  Daily cases per million people map  Total cases per million people map  Total cases per million people by counntry graph  </description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Knowledge Base - Deaths</title>
+      <link>http://covidpapers.github.io/covid19-deaths/</link>
+      <pubDate>Sun, 05 Apr 2020 11:11:39 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/covid19-deaths/</guid>
+      <description>3-day rolling average new deaths by counry graph  Daily deaths per million people map  Deaths per million people map  Total deaths by country graph  </description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Knowledge Base - Tests</title>
+      <link>http://covidpapers.github.io/covid19-testing/</link>
+      <pubDate>Sun, 05 Apr 2020 11:11:39 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/covid19-testing/</guid>
+      <description>Total tests by country  Tests per million people by country  Daily tests by country  Daily tests per million people by country </description>
     </item>
     
     <item>
@@ -47,7 +74,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>About</title>
       <link>http://covidpapers.github.io/about/</link>
       <pubDate>Thu, 02 Apr 2020 11:11:39 -0500</pubDate>
       
@@ -77,10 +104,10 @@ Long term, I plan to keep an up-to-date dashboard of the current state of knowle
     
     <item>
       <title></title>
-      <link>http://covidpapers.github.io/trials/</link>
+      <link>http://covidpapers.github.io/covid19-trials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://covidpapers.github.io/trials/</guid>
+      <guid>http://covidpapers.github.io/covid19-trials/</guid>
       <description>Study Location Interventions Start date End date     Various Combination of Protease Inhibitors, Oseltamivir, Favipiravir, and Hydroxychloroquine for Treatment of COVID19 : A Randomized Control Trial Bangkok Thailand Lopinavir and Ritonavir Oseltamivir moderate to severe COVID19, Darunavir and Ritonavir plus oseltamivir, Favipiravir lopinavir /Ritonavir for mod. To severe, Oseltamivir plus Chloroquine in Mild COVID19, Darunavir /ritonavir oseltamivir chloroquine mod-severe, Lopinavir and Ritonavir plus Oseltamivir in mild COVID19, Darunavir /ritonavir favipiravir chloroquine mod-severe March 15, 2020 November 30, 2020   Pre-Exposure Prophylaxis With Hydroxychloroquine for High-Risk Healthcare Workers During the COVID-19 Pandemic Barcelona Spain Control group with placebo, Pre-exposure prophylaxis of SARS-CoV-2 April 3, 2020 October 30, 2020   The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine) Philadelphia United States Cohort 2 HCQ high dose, Cohort 1 Placebo, Cohort 1 HCQ, Cohort 2 HCQ low dose, Cohort 3 Placebo, Cohort 3 HCQ April 6, 2020 December 1, 2021   Clinical Trial on Regularity of TCM Syndrome and Differentiation Treatment of COVID-19.</description>
     </item>
     
