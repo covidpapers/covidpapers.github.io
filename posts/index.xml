@@ -5,10 +5,19 @@
     <link>http://covidpapers.github.io/posts/</link>
     <description>Recent content in Posts on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Apr 2020 18:55:50 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 11:36:28 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update: New data on stability of SARS-CoV-2 on different surfaces, at different temperatures, and susceptibility to different disinfectants</title>
+      <link>http://covidpapers.github.io/posts/stability-of-sars-cov-2-in-different-environmental-conditions/</link>
+      <pubDate>Sun, 05 Apr 2020 11:36:28 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/stability-of-sars-cov-2-in-different-environmental-conditions/</guid>
+      <description>Alex W H Chin, Julie T S Chu, Mahen R A Perera, Kenrie P Y Hui, Hui-Ling Yen, Michael C W Chan, Malik Peiris, Leo L M Poon, Stability of SARS-CoV-2 in different environmental conditions, The Lancet Microbe, 2020,</description>
+    </item>
     
     <item>
       <title>Rundown: Multiyear Mask Study Concludes Surgical Masks Could Prevent Transmission of Coronaviruses and Influenza</title>
