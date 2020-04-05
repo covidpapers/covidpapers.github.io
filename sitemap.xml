@@ -68,6 +68,11 @@
   </url>
   
   <url>
+    <loc>http://covidpapers.github.io/trials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://covidpapers.github.io/authors/</loc>
   </url>
   
