@@ -5,10 +5,22 @@
     <link>http://covidpapers.github.io/posts/</link>
     <description>Recent content in Posts on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Apr 2020 23:53:32 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 16:39:44 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New analysis details possible hidden spread in Washington state in January and February</title>
+      <link>http://covidpapers.github.io/posts/cryptic-transmission-of-sars-cov-2-in-washington-state/</link>
+      <pubDate>Mon, 06 Apr 2020 16:39:44 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/cryptic-transmission-of-sars-cov-2-in-washington-state/</guid>
+      <description>Trevor Bedford and 55 colleagues just published a preprint detailing some detective work on early transmission of Covid in Washington state.
+The TL;DR is they looked at 346 viral genomes from infected patients and said the data are
+ strongly suggesting cryptic spread of COVID-19during the months of January and February 2020, before active community surveillance was implemented.
+ How they can know Bedford describes the way this detective work is done in a blog post but the gist is that viruses mutate all the time (often in ways that don&amp;rsquo;t effect function).</description>
+    </item>
     
     <item>
       <title>Whats the Deal with Hydroxychloroquine? The current state of scientific knowledge.</title>
