@@ -5,10 +5,22 @@
     <link>http://covidpapers.github.io/categories/clinical/</link>
     <description>Recent content in clinical on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Apr 2020 01:41:09 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 21:14:32 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/categories/clinical/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Key findings from the largest ICU case study to date, just released: 1591 Covid Patients in Lombardy</title>
+      <link>http://covidpapers.github.io/posts/1591-covid-patients-in-lombardy/</link>
+      <pubDate>Mon, 06 Apr 2020 21:14:32 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/1591-covid-patients-in-lombardy/</guid>
+      <description>A study was just published describing 1591 ICU Covid patients in Lombardy, Italy, the largest study of its kind so far.
+Annotations by @PulmCrit
+Some key stats:
+ 82% of the patients were male median age was 63 years 68% had at least one comorbidity, with hypertension being the most common 88% of the patients for which there was this kind of data were intubated (1150 total) 58% remain in the ICU 16% have been discharged from the ICU 26% died during the study median length of stay of those who died in the ICU was 7 days median length of stay for those who were discharged from the ICU was 8 days  @PulmCrit speculates about metabolic syndrome comorbidities</description>
+    </item>
     
     <item>
       <title>Not Your Typical ARDS: the high-stakes debate about ICU Covid intubation</title>
