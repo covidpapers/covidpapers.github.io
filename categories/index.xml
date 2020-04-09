@@ -5,10 +5,19 @@
     <link>http://covidpapers.github.io/categories/</link>
     <description>Recent content in Categories on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Apr 2020 00:06:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 06:44:29 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>immunity</title>
+      <link>http://covidpapers.github.io/categories/immunity/</link>
+      <pubDate>Thu, 09 Apr 2020 06:44:29 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/categories/immunity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>prevention</title>

@@ -5,10 +5,22 @@
     <link>http://covidpapers.github.io/posts/</link>
     <description>Recent content in Posts on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Apr 2020 00:06:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 06:44:29 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent study on antibodies widely misinterpreted on re-infection and vaccine implications</title>
+      <link>http://covidpapers.github.io/posts/neutralizing-antibody-responses-to-sars-cov-2-in-a-covid-19-recovered-1-patient-cohort-and-their-implications/</link>
+      <pubDate>Thu, 09 Apr 2020 06:44:29 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/neutralizing-antibody-responses-to-sars-cov-2-in-a-covid-19-recovered-1-patient-cohort-and-their-implications/</guid>
+      <description>You may have seen this recent headline from the South China Morning Post
+This was passed around widely as a troubling sign
+This is very worrisome. Among recovered former #COVID19 cases, “nearly a third had unexpectedly low levels of antibodies. In some cases, antibodies could not be detected at all.” 🤔 https://t.co/VEwTJWOJD2
+&amp;mdash; Eric Feigl-Ding (@DrEricDing) April 8, 2020  However, &amp;ldquo;worrisome&amp;rdquo; was not even a good read of the results</description>
+    </item>
     
     <item>
       <title>Speaking Moistly: A new study investigates whether SARS-CoV-2 could be transmitted via speech droplets</title>
