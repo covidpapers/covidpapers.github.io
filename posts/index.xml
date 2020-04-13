@@ -5,10 +5,19 @@
     <link>http://covidpapers.github.io/posts/</link>
     <description>Recent content in Posts on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Apr 2020 15:33:50 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 12:59:06 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Early NYC cases fueled by multiple introductions from diverse origins. Community spread mainly linked to European and domestic introductions.</title>
+      <link>http://covidpapers.github.io/posts/introductions-and-early-spread-of-sars-cov-2-in-the-new-york-city-area/</link>
+      <pubDate>Mon, 13 Apr 2020 12:59:06 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/introductions-and-early-spread-of-sars-cov-2-in-the-new-york-city-area/</guid>
+      <description>A picture is emerging of early coronavirus transmission in NYC</description>
+    </item>
     
     <item>
       <title>Next stop, phase 3 clinical trials: &#34;hopeful&#34; results from Remdesivir study released today</title>

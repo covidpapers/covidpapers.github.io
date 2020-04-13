@@ -5,10 +5,19 @@
     <link>http://covidpapers.github.io/categories/epidemiology/</link>
     <description>Recent content in epidemiology on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Apr 2020 21:14:32 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 12:59:06 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/categories/epidemiology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Early NYC cases fueled by multiple introductions from diverse origins. Community spread mainly linked to European and domestic introductions.</title>
+      <link>http://covidpapers.github.io/posts/introductions-and-early-spread-of-sars-cov-2-in-the-new-york-city-area/</link>
+      <pubDate>Mon, 13 Apr 2020 12:59:06 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/introductions-and-early-spread-of-sars-cov-2-in-the-new-york-city-area/</guid>
+      <description>A picture is emerging of early coronavirus transmission in NYC</description>
+    </item>
     
     <item>
       <title>Key findings from the largest ICU case study to date, just released: 1591 Covid Patients in Lombardy</title>
