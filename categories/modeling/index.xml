@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modeling on Covid Papers</title>
+    <link>http://covidpapers.github.io/categories/modeling/</link>
+    <description>Recent content in modeling on Covid Papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Apr 2020 10:52:07 -0500</lastBuildDate>
+    
+	<atom:link href="http://covidpapers.github.io/categories/modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some problems with the model US policymakers are using to forecast outbreak</title>
+      <link>http://covidpapers.github.io/posts/caution-warranted-using-the-institute-for-health-metrics-and-evaluation-model-for-predicting-the-course-of-the-covid-19-pandemic/</link>
+      <pubDate>Wed, 15 Apr 2020 10:52:07 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/posts/caution-warranted-using-the-institute-for-health-metrics-and-evaluation-model-for-predicting-the-course-of-the-covid-19-pandemic/</guid>
+      <description>A letter published in the Annals of Internal Medicine urges caution for policy makers relying on IHME&amp;rsquo;s model.
+The TL;DR is captured by a statistician
+Yet another important reminder, it doesn&amp;#39;t get clearer than this: &amp;quot;The IHME projections are based not on transmission dynamics but on a statistical model with no epidemiologic basis.&amp;quot; Fromhttps://t.co/BPO2j5bRvf
+&amp;mdash; Leontine Alkema (@LeontineAlkema) April 15, 2020  You have probably seen this model before, it&amp;rsquo;s the one that gives graphs such as this</description>
+    </item>
+    
+  </channel>
+</rss>
