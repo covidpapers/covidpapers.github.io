@@ -5,10 +5,19 @@
     <link>http://covidpapers.github.io/categories/</link>
     <description>Recent content in Categories on Covid Papers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Apr 2020 20:48:07 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 14:44:54 -0500</lastBuildDate>
     
 	<atom:link href="http://covidpapers.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>epidemiology</title>
+      <link>http://covidpapers.github.io/categories/epidemiology/</link>
+      <pubDate>Sun, 19 Apr 2020 14:44:54 -0500</pubDate>
+      
+      <guid>http://covidpapers.github.io/categories/epidemiology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>prevention</title>
@@ -25,15 +34,6 @@
       <pubDate>Wed, 15 Apr 2020 10:52:07 -0500</pubDate>
       
       <guid>http://covidpapers.github.io/categories/modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epidemiology</title>
-      <link>http://covidpapers.github.io/categories/epidemiology/</link>
-      <pubDate>Mon, 13 Apr 2020 12:59:06 -0500</pubDate>
-      
-      <guid>http://covidpapers.github.io/categories/epidemiology/</guid>
       <description></description>
     </item>
     
